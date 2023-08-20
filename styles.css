@@ -75,8 +75,20 @@ body, h1, h2, h3, h4, h5, h6, p, ul, li {
     transform: translate(-50%, -50%);
     text-align: center;
     background-color: yellow; /* Add white background color */
-    padding: 20px; /* Add padding for better visibility */
+    padding: 10px; /* Add padding for better visibility */
     border-radius: 10px; /* Add rounded corners */
+  }
+
+  .hero-content-founder {
+    font-style: 'poppins';
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: left;
+    background-color: black; /* Add white background color */
+    padding: 10px; /* Add padding for better visibility */
+    border-radius: 10px;
   }
   
   .hero h1 {
@@ -267,7 +279,7 @@ body, h1, h2, h3, h4, h5, h6, p, ul, li {
 
     .hero-logo {
       position: absolute;
-      top: 30%;
+      top: 35%;
       left: 50%;
       transform: translate(-50%, -50%);
     }
@@ -281,7 +293,19 @@ body, h1, h2, h3, h4, h5, h6, p, ul, li {
      .hero-content { 
       top: 60%;
       padding: 10px;
-      width: 70%;
+      width: 50%;
+    }
+
+    .hero-content-founder {
+      font-style: 'poppins';
+      position: absolute;
+      top: 80%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+      background-color: black; /* Add white background color */
+      padding: 10px; /* Add padding for better visibility */
+      border-radius: 10px;
     }
   
     .hero h1 {
