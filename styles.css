@@ -291,7 +291,7 @@ body, h1, h2, h3, h4, h5, h6, p, ul, li {
     }
 
      .hero-content { 
-      top: 60%;
+      top: 65%;
       padding: 10px;
       width: 50%;
     }
@@ -299,7 +299,7 @@ body, h1, h2, h3, h4, h5, h6, p, ul, li {
     .hero-content-founder {
       font-style: 'poppins';
       position: absolute;
-      top: 80%;
+      top: 85%;
       left: 50%;
       transform: translate(-50%, -50%);
       text-align: center;
